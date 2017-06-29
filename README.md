@@ -1,8 +1,8 @@
 # The Node.js Collection Team
-A place for the Node.js Collection to organize the technical editing process for articles submitted to the publication.
+A place for [the Node.js Collection](https://medium.com/the-node-js-collection) to organize the technical editing process for articles submitted to the publication.
 
 ## Purpose of Node.js Foundation Medium publication
-The Node.js Foundation’s new Medium publication serves as a channel for the community to broadcast to a wide audience its views related to Node.js and its ecosystem. This may include:
+The Node.js Foundation’s new [Medium](https://medium.com/) publication serves as a channel for the community to broadcast to a wide audience its views related to Node.js and its ecosystem. This may include:
 
 - Summaries of incubated projects or technical decisions made
 - Working project initiatives
@@ -12,7 +12,7 @@ The Node.js Foundation’s new Medium publication serves as a channel for the co
 - Other topics will certainly be considered, but it should be something of interest to the Node.js community
 
 ## Quality
-We are looking for posts that teach and provide value to our community. Contributions should include the meta-narrative that “Node.js is maturing and gaining widespread use in mainstream enterprises, while continuing  to inspire amazing potential and creativity among the massive community using the platform.” Sub-domains and topics for the Medium page include:
+We are looking for posts that inform, teach, experiment, and generally enrich our community. There's no hard and fast rule of what an article should or feel like; Node.js Collection articles should be as diverse as the community itself. Ideally, contributions should encourage readers to explore new ideas, dig deeper into old ones, and to inspire readers to experiment and tinker. Articles can cover any number of topics such as:
 
 - Serverless/Cloud
 - Containers
@@ -21,6 +21,8 @@ We are looking for posts that teach and provide value to our community. Contribu
 - Embedded/IoT
 - AI/Mobile
 - More (Essentially news from the Foundation and potentially more editorial style content about the future of Node.js Core) - see Google Cloud Platform’s More section as an example [here](https://cloudplatform.googleblog.com).
+
+If you're passionate about something not listed above, please don't hesitate to submit your idea for consideration.
 
 ## Guidelines/General Tips of Submissions
 
@@ -38,14 +40,15 @@ Diagrams or photos are strongly encouraged.
 
 ## How to submit for consideration
 
-- Please submit a brief summary and the topic of the post to `medium@nodejs.org` for consideration. The email alias reaches the review team consisting of Zibby Keaton, Sarah Conway, Tracy Hinds, Mikeal Rogers, Tierney Coren, Ross Kukulinski (with the potential to expand in the future).
-- Members of the Node.js Evangelism Working Group and Node.js Foundation PR team will review your submission in an a timely manner and provide the green light to draft the entire article or provide feedback or direction. 
+- Please submit a brief summary and the topic of the post to `medium@nodejs.org` for consideration. 
+- Members of the Node.js Collection Technical Review Team and Node.js Foundation PR team will review your submission in a timely manner and provide the green light to draft the entire article or provide feedback or direction.
 - If you are submitting an article or presentation that already exists, please send it in its entirety with a note on the expressed permission to publish from the owner of content.
 - Once your submission has been approved, it will be added to the Node.js Foundation Medium publication publishing calendar and a publish date will be provided, so you may plan to promote accordingly through your personal and company’s social media channels. 
 
 ## Review Process for Original Posts
 - The review team will provide comments and edits. 
-- Once the review team has made suggested edits, the post will be shared with the full evangelism working group, which will be given three days to provide additional edits/comments.
+- Once the review team has made suggested edits, they will share all suggested edits with the author who has final sign off on content.
+- If the author feels comfortable, we would also like to list out the names of the technical editors of the post.
 - The review team will share all suggested edits with the author, who has final sign off on content.  
 - Zibby Keaton will then post to the Node.js Foundation Medium publication.
 - The review process may take between two to three weeks depending on the number of edits and revisions involved. 
@@ -53,6 +56,7 @@ Diagrams or photos are strongly encouraged.
 ## Review Process for Created Medium Posts
 - Members from the evangelism working group are invited to become editors on Medium. If interested, contact Zibby Keaton here: zkeaton@linuxfoundation.org.
 - Editors are allowed to request to put already available public content on the Node.js Foundation Medium publication if they follow the above guidelines. 
+- If you are interested in becoming a technical editor, please file an issue.
 
 ## About This Team
 The Node.js Collection Team is overseen by the [Node.js Community Committee](https://github.com/nodejs/community-committee). 
