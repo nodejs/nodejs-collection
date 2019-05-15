@@ -12,7 +12,7 @@ The Node.js Foundation’s new [Medium](https://medium.com/) publication serves 
 - Other topics will certainly be considered, but it should be something of interest to the Node.js community
 
 ## Quality
-We are looking for posts that inform, teach, experiment, and generally enrich our community. There's no hard and fast rule of what an article should or feel like; Node.js Collection articles should be as diverse as the community itself. Ideally, contributions should encourage readers to explore new ideas, dig deeper into old ones, and to inspire readers to experiment and tinker. Articles can cover any number of topics such as:
+We are looking for posts that inform, teach, experiment, and generally enrich our community. There's no hard and fast rule of what an article should look or feel like; Node.js Collection articles should be as diverse as the community itself. Ideally, contributions should encourage readers to explore new ideas, dig deeper into old ones, and to inspire readers to experiment and tinker. Articles can cover any number of topics such as:
 
 - Serverless/Cloud
 - Containers
