@@ -24,6 +24,13 @@ We are looking for posts that inform, teach, experiment, and generally enrich ou
 
 If you're passionate about something not listed above, please don't hesitate to submit your idea for consideration.
 
+## Resources
+Trello Board [https://trello.com/b/M9VUQl9S/nodejs-collection](https://trello.com/b/M9VUQl9S/nodejs-collection)
+
+### Key Roles:
+- **Contributor/Writer** : Person submitting article or idea for inclusion on the Node.js Collection
+- **Editor** : Technical Reviewer. Person who ensure the content is technically sound/ appropriate.
+
 ## Guidelines/General Tips of Submissions
 
 - Posts from members and community members must be vendor-neutral, though they may mention vendors involved in specific project deployments if this serves the purpose of educating readers.
@@ -46,17 +53,45 @@ If you're passionate about something not listed above, please don't hesitate to 
 
 ## Review Process for Original Posts
 - Writers submit an abstract via email at medium@nodejs.org.
-- Editors have one week to provide approval - this is done internally on the alias and not to be shared with the writer until a final decision and suggested changes are reached as a group.
-- If the abstract is approved, the writer will be informed and a task will be created on the Trello board for the post
-- Write will submit a draft on Medium and an editor or two will be assigned to review.
+
+- Editors have one week to provide approval or feedback - this is done internally on the alias and not to be shared with the writer until a final decision and suggested changes are reached as a group.
+
+- If the abstract is approved, the writer will be informed and a task will be created on the [Trello board](https://trello.com/b/M9VUQl9S/nodejs-collection) for the post
+
+- The contributor will be made a “Writer” on the Node.js Collection medium account.
+
+- The contributor will write the first draft and Write will submit this draft on Medium and an editor or two will be assigned to review. The contributor will ping the medium alias to alert the editors a draft has been submitted. Clear directions on how to submit will be provided to the contributor.
+
+- Editor from the Node.js Collection will review the post and provide the writer comments or feedback. This process can take up to a month to complete.
+
 - The writer to approve all content and send a note to medium@nodejs.org once finished.
-- An editor from Node.js PR team to review one final time and accept into publication.
+
+- Once the piece is complete, and the writer approves the content, an editor from Node.js PR team to review one final time and accept into publication.
+
+- Once the submission has been approved, it will be added to the Node.js Collection Medium publication - a publication date will be provided for proper social planning/ promo.
+
 - The writer will be informed about the approval and publication date.
 
-## Review Process for Created Medium Posts
+## Review Process for Existing Created Medium Posts (to be republished with permission on the Node.js Collection)
+
 - Members from the evangelism working group are invited to become editors on Medium. If interested, contact here: medium@nodejs.org
-- Editors are allowed to request to put already available public content on the Node.js Foundation Medium publication if they follow the above guidelines.
-- A task will be created in the Trello board and an editor will be assigned to review the content.
+
+- Editors are allowed to request to put already available public content on the Node.js Foundation Medium publication if they follow the above guidelines pertaining to “Quality” and “Guidelines/General Tips of Submissions”.
+
+- A writer can send an existing article for consideration to the medium alias.
+
+- The editors decide if the content is acceptable for publication.
+
+- If accepted, a task will be created in the [Trello board](https://trello.com/b/M9VUQl9S/nodejs-collection) and an editor will be assigned to review the content.
+
+- The writer will be alerted of these edits and suggestions; the author of the post has the final sign off on content and can approve/accept all edits.
+
+- If the author feels comfortable, the post should come with a list of those who helped edit the content.
+
+- The review process could take up to a month depending on the number of edits and revisions involved.
+
+- The review process and edits needed will happen on Medium with few exceptions.
+
 - Once approved, the content will be published to Nodejs Collection.
 
 ## About This Team
