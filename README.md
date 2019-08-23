@@ -29,7 +29,7 @@ Trello Board [https://trello.com/b/M9VUQl9S/nodejs-collection](https://trello.co
 
 ### Key Roles:
 - **Contributor/Writer** : Person submitting article or idea for inclusion on the Node.js Collection
-- **Editor** : Technical Reviewer. Person who ensure the content is technically sound/ appropriate.
+- **Editor** : Technical Reviewer. Person who ensures the content's technical integrity.
 
 ## Guidelines/General Tips of Submissions
 
