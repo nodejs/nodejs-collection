@@ -46,21 +46,20 @@ Trello Board [https://trello.com/b/M9VUQl9S/nodejs-collection](https://trello.co
 
 ## How to submit for consideration
 
-- Please submit a brief summary and the topic of the post to `medium@nodejs.org` for consideration.
-- Members of the Node.js Collection Technical Review Team and Node.js ProjectPR team will review your submission in a timely manner and provide the green light to draft the entire article or provide feedback or direction.
+- Please create a Google Doc with a brief summary and the topic of the post.
+- Send the Google Doc to `medium@nodejs.org` for consideration.
+- Members of the Node.js Collection Technical Review Team and OpenJS Foundation PR team will review your submission in a timely manner and provide the green light to draft the entire article or provide feedback or direction.
 - If you are submitting an article or presentation that already exists, please send it in its entirety with a note on the expressed permission to publish from the owner of the content.
 - Once your submission has been approved, it will be added to the Node.js Foundation Medium publication publishing calendar and a publish date will be provided, so you may plan to promote accordingly through your personal and company’s social media channels.
 
 ## Review Process for Original Posts
-- Writers submit an abstract via email at medium@nodejs.org.
+- Writers submit an abstract in a Google Doc via email at medium@nodejs.org.
 
 - Editors have one week to provide approval or feedback - this is done internally on the alias and not to be shared with the writer until a final decision and suggested changes are reached as a group.
 
-- If the abstract is approved, the writer will be informed and a task will be created on the [Trello board](https://trello.com/b/M9VUQl9S/nodejs-collection) for the post
+- If the abstract is approved, the writer will be informed and a task will be created on the [Trello board](https://trello.com/b/M9VUQl9S/nodejs-collection) for the post.
 
-- The contributor will be made a “Writer” on the Node.js Collection medium account.
-
-- The contributor will write the first draft and Write will submit this draft on Medium and an editor or two will be assigned to review. The contributor will ping the medium alias to alert the editors a draft has been submitted. Clear directions on how to submit will be provided to the contributor.
+- The writer will submit the first draft through same Google Doc. The writer will ping the medium alias to alert the editors a draft has been submitted.
 
 - Editor from the Node.js Collection will review the post and provide the writer comments or feedback. This process can take up to a month to complete.
 
@@ -68,15 +67,15 @@ Trello Board [https://trello.com/b/M9VUQl9S/nodejs-collection](https://trello.co
 
 - Once the piece is complete, and the writer approves the content, an editor from Node.js PR team to review one final time and accept into publication.
 
-- Once the submission has been approved, it will be added to the Node.js Collection Medium publication - a publication date will be provided for proper social planning/ promo.
+- Once the submission has been approved, it will be added to the Node.js Collection Medium publication - a publication date will be provided for proper social planning/promo.
 
 - The writer will be informed about the approval and publication date.
 
 ## Review Process for Existing Created Medium Posts (to be republished with permission on the Node.js Collection)
 
-- Members from the evangelism working group are invited to become editors on Medium. If interested, contact here: medium@nodejs.org
+- Anyone is invited to become editors on Medium. If interested, contact here: medium@nodejs.org
 
-- Editors are allowed to request to put already available public content on the Node.js Foundation Medium publication if they follow the above guidelines pertaining to “Quality” and “Guidelines/General Tips of Submissions”.
+- Editors are allowed to request to put already available public content on the Node.js Collection posts publication if they follow the above guidelines pertaining to “Quality” and “Guidelines/General Tips of Submissions”.
 
 - A writer can send an existing article for consideration to the medium alias.
 
@@ -92,7 +91,7 @@ Trello Board [https://trello.com/b/M9VUQl9S/nodejs-collection](https://trello.co
 
 - The review process and edits needed will happen on Medium with few exceptions.
 
-- Once approved, the content will be published to Nodejs Collection.
+- Once approved, the content will be published to Node.js Collection.
 
 ## About This Team
 The Node.js Collection Team is overseen by the [Node.js Community Committee](https://github.com/nodejs/community-committee).
