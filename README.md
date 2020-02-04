@@ -42,7 +42,7 @@ We are looking for posts that inform, teach, experiment, and generally enrich ou
 If you're passionate about something not listed above, please don't hesitate to submit your idea for consideration.
 
 ## Resources
-Trello Board [https://trello.com/b/M9VUQl9S/nodejs-collection](https://trello.com/b/M9VUQl9S/nodejs-collection)
+* [Trello Board](https://trello.com/b/M9VUQl9S/nodejs-collection)
 
 ### Key Roles:
 - **Contributor/Writer** : Person submitting article or idea for inclusion on the Node.js Collection
