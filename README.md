@@ -56,7 +56,7 @@ If you're passionate about something not listed above, please don't hesitate to 
 - All content should have a byline (preferably by a company engineer) and be published with Creative Commons with Attribution, so you’re welcome to republish on your blog.
 - The most interesting posts are ones that teach or explain how to do something in a way maybe others haven’t thought of. Good blog posts show hurdles that were encountered and explain how they were overcome (not that everything is rainbows and unicorns).
 - A few posts that have performed well on the Node.js Collection Medium page include Walmart Strives to be an Online Retailer with Node.js (use case); Node.js Transitions to LTS (news); The Progress of Node.js Post io.js and Node.js merger (progress update).
-- When showing upstreaming of a patch fixing an issue for others, link back to the Github issue so readers can follow along.
+- When showing upstreaming of a patch fixing an issue for others, link back to the GitHub issue so readers can follow along.
 - We don’t avoid critical commentary or broad issues but approach them with sensitivity, professionalism, and tact in a way that is beneficial and positive for the community.
 - Node.js Collection Medium posts should be no longer than 1,000 words and no shorter than 300 words.
 - Diagrams or photos are strongly encouraged.
