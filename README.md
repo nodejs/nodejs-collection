@@ -15,13 +15,15 @@ The Node.js Collection is a [Medium](https://medium.com/) publication which serv
 We have list of people who review the post before publishing. If the post is specific to some technical topic, we seek review from someone who has knowledge of that domain.
 
 ### How to become an editor?
-We are looking for more reviewers. If you are interested, please open an issue in [nodejs-collection repo](https://github.com/nodejs/nodejs-collection/issues) with your details and the team will review it.
+We are looking for more reviewers. If you are interested, please open an issue in [nodejs-collection repo](https://github.com/nodejs/nodejs-collection/issues) with these details and the team will review it.
+- Name
+- Experties (i.e IoT, Node.js Modules, cli, APIs etc)
+- How much time you can give per week. (i.e 1-2 hours)
 
 ### Benefits of being an editor
-- Your name will be added in the [current editors list](https://github.com/nodejs/nodejs-collection#current-editors).
+- Your name will be added to the [current editors list](https://github.com/nodejs/nodejs-collection#current-editors).
 - You'll be added to [editors list on Medium](https://medium.com/the-node-js-collection/about).
-- You'll receive discount to attend OpenJS Foundation Conference.
-
+- Possibility to become a member of Node.js Project and avail benefits like [Travel Fund](https://github.com/nodejs/admin#travel-fund).
 
 ### Current Editors
 * [bnb] - **Tierney Cyren** &lt;hello@bnb.im&gt;
