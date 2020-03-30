@@ -18,7 +18,8 @@ We have list of people who review the post before publishing. If the post is spe
 We are looking for more reviewers. If you are interested, please open an issue in [nodejs-collection repo](https://github.com/nodejs/nodejs-collection/issues) with these details and the team will review it.
 - Name
 - Experties (i.e IoT, Node.js Modules, cli, APIs etc)
-- How much time you can give per week. (i.e 1-2 hours)
+- How much time you can give per week (i.e 1-2 hours)
+- Email address
 
 ### Benefits of being an editor
 - Your name will be added to the [current editors list](https://github.com/nodejs/nodejs-collection#current-editors).
