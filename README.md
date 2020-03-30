@@ -15,9 +15,10 @@ The Node.js Collection is a [Medium](https://medium.com/) publication which serv
 We have list of people who review the post before publishing. If the post is specific to some technical topic, we seek review from someone who has knowledge of that domain.
 
 ### How to become an editor?
-We are looking for more reviewers. If you are interested, please open an issue in [nodejs-collection repo](https://github.com/nodejs/nodejs-collection/issues) with these details and the team will review it.
+We are looking for more reviewers. If you are interested, please open an issue in [nodejs-collection repo](https://github.com/nodejs/nodejs-collection/issues) with your details and the team will review it.
+Please include the following:
 - Name
-- Experties (i.e IoT, Node.js Modules, cli, APIs etc)
+- Expertise (i.e IoT, Node.js Modules, CLI, APIs etc)
 - How much time you can give per week (i.e 1-2 hours)
 - Email address
 
