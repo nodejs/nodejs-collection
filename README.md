@@ -1,13 +1,9 @@
-# The Node.js Collection Team
-A place for [the Node.js Collection](https://medium.com/the-node-js-collection) to organize the technical editing process for articles submitted to the publication.
-
-## Purpose of Node.js Foundation Medium publication
-The Node.js Foundation’s new [Medium](https://medium.com/) publication serves as a channel for the community to broadcast to a wide audience its views related to Node.js and its ecosystem.
+# The Node.js Collection Medium publication
+The [Node.js Collection](https://medium.com/the-node-js-collection) Medium publication serves as a channel for the Node.js project to broadcast announcements and updates about the project.
 
 ## How to submit for consideration
-
-- Please submit your article to `medium@nodejs.org` for consideration. 
-- Members of the Node.js Collection Team and Node.js Foundation PR team will review your submission and will get back to you in a timely manner.
+- The publication will only consider articles submitted by Node.js project collaborators, working groups, initiatives and teams.
+- Please submit your article to `medium@nodejs.org` for consideration.
 
 ## About This Team
-The Node.js Collection Team is overseen by the [Node.js Community Committee](https://github.com/nodejs/community-committee). 
+The Node.js Collection is overseen by the [Node.js Social Team](https://github.com/nodejs/social-team). 
